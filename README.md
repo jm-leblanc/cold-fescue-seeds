@@ -1,10 +1,10 @@
-# Data and Code for _Seed storage conditions shape germination outcomes: Differing responses in two closely-related fescue species_ (LeBlanc and McFarlane 2025)
+## Data and Code for _Seed storage conditions shape germination outcomes: Differing responses in two closely-related fescue species_ (LeBlanc and McFarlane 2025)
 
 This repository contains all the code and data associated with the manuscript _Seed storage conditions shape germination outcomes: Differing responses in two closely-related fescue species_, which is currently under review for publication. The files here are structured to reproduce the results, figures, and tables in the supplementary materials of the manuscript.
 
-## Files in this Repository
+### Files in this Repository
 
-### Code Files
+#### Code Files
 
 - **2020_TtE-curves-and-figure.R**  
   This script generates Figure 1 in the supplementary material. It uses the data in `Cleaned_2020-germ-per-day_Wide.csv`.
@@ -18,7 +18,7 @@ This repository contains all the code and data associated with the manuscript _S
 - **Time-to-Event-curves_Basic-code_GitHub.R**  
   This script generates Figure 2 in the supplementary material.
 
-### Data Files
+#### Data Files
 
 - **Cleaned_2020-germ-per-day_Wide.csv**  
   Contains count data for a 2020 comparative germination experiment between _F. hallii_ and _F. campestris_
